@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vigan Zeqiri
-- 👀 I’m interested in front end development and web3
+- 👀 I’m interested in front end and full stack development
 - 🌱 I’m currently exploring the web3 world
 - 📫 How to reach me: https://www.linkedin.com/in/viganzeqirii/
 
